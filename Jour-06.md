@@ -4,15 +4,15 @@
 
 * [X] Découverte du Markdown : 
   * [X] Comprendre l'intérêt du Markdown
-  * [ ] Découvrir les balises de bases : 
-    * [ ] Titres
-    * [ ] Images
-    * [ ] Listes
-    * [ ] Formatage de texte (italique, souligné, gras)
+  * [X] Découvrir les balises de bases : 
+    * [x] Titres
+    * [x] Images
+    * [x] Listes
+    * [x] Formatage de texte (italique, souligné, gras)
     * [ ] Code
     * [ ] Citations
     * [ ] Tableaux
-    * [ ] Liens
+    * [x] Liens
   * [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
 * [ ] Comprendre l'intérêt des raccourcis clavier
 * [ ] Découverte des raccourcis clavier Linux : 
