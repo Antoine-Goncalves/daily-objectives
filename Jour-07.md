@@ -7,7 +7,7 @@
 * [X] Comprendre la différence entre Frontend et Backend
 * [X] Découverte de la sainte trinité du web (HTML, CSS et JS)
   * [X] Comprendre les différences et rôle de chacun
-* [ ] Découvrir les bases de HTML :
+* [X] Découvrir les bases de HTML :
   * [X] Comprendre la structure de base HTML
   * [X] Découvrir les principaux tags HTML et comprendre leur utilité
   * [X] Savoir architecturer une page HTML basique
