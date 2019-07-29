@@ -3,17 +3,17 @@
 ## Lundi 29/07/2019
 
 
-* [ ] Décrouvrir le Javascript
-  * [ ] Comprendre ce qu'est Javascript, ce qu'il peut, ce qu'il ne peut pas (http://javascript.info/intro)
-  * [ ] Découvrir la documentation officielle JavaScript (http://javascript.info/manuals-specifications) : 
-    * [ ] Comprendre ce qu'est la spécification `ECMA-262`
-    * [ ] Comprendre ce qu'est le `TC-39`
+* [X] Décrouvrir le Javascript
+  * [X] Comprendre ce qu'est Javascript, ce qu'il peut, ce qu'il ne peut pas (http://javascript.info/intro)
+  * [X] Découvrir la documentation officielle JavaScript (http://javascript.info/manuals-specifications) : 
+    * [X] Comprendre ce qu'est la spécification `ECMA-262`
+    * [X] Comprendre ce qu'est le `TC-39`
     * [ ] Lister les bonnes sources de documentation
 
-* [ ] Algo : 
-  * [ ] Comprendre ce qu'est un algorithme
-  * [ ] Comprendre l'utilité des algorithmes
-  * [ ] Déterminer l'importance de l’étude des algorithmes
+* [X] Algo : 
+  * [X] Comprendre ce qu'est un algorithme
+  * [X] Comprendre l'utilité des algorithmes
+  * [X] Déterminer l'importance de l’étude des algorithmes
 
 * [ ] HTML :
   * [ ] Comprendre le fonctionnement des tableaux en HTML5 et savoir les manipuler
