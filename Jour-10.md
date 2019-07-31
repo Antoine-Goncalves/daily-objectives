@@ -5,7 +5,7 @@
 
 * [ ] Javascript : 
   * [ ] Comprendre le fonctionnement et l'utilité des variables (http://javascript.info/variables)
-    * [ ] Comprendre la différence entre `let`, `var` et `const`
+    * [X] Comprendre la différence entre `let`, `var` et `const`
 
 * [ ] Algo : 
   * [ ] Découvrir le tri à bulles (Bubble Sort)
