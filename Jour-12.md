@@ -15,4 +15,4 @@
     * [ ] Découvrir le responsive design :
         * [X] Comprendre l'utilité du responsive design
         * [X] Comprendre le fonctionnement des medias queries
-        * [ ] Comprendre la notion de mobile first
+        * [X] Comprendre la notion de mobile first
