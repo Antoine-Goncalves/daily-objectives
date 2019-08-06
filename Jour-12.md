@@ -6,8 +6,8 @@
   * [ ] Comprendre les conversion de types en Javascript (http://javascript.info/type-conversions)
     * [ ] Faire l'exercice / Analyser ses erreurs
 
-* [ ] Algo : 
-  * [ ] Découvrir le tri par tas (Heap Sort)
+* [X] Algo : 
+  * [X] Découvrir le tri par tas (Heap Sort)
 
 * [ ] CSS : 
     * [ ] Comprendre la précédence en CSS
