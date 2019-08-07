@@ -3,8 +3,8 @@
 ## Mercredi 07/08/2019
 
 
-* [ ] Javascript :
-  * [ ] Comprendre le fonctionnement des opérateurs en Javascript (https://javascript.info/operators#operator-precedence)
+* [X] Javascript :
+  * [X] Comprendre le fonctionnement des opérateurs en Javascript (https://javascript.info/operators#operator-precedence)
     * [X] Comprendre la différence entre unaire, binaire et opérande
     * [X] Comprendre la concaténation
     * [X] Comprendre la précédence des opérateurs
@@ -14,8 +14,8 @@
 * [X] Algo : 
   * [X] Découvrir le tri fusion (Merge Sort)
 
-* [ ] CSS : 
+* [X] CSS : 
   * [X] Comprendre le fonctionnement de Flexbox
     * [X] Faire le parcours Flexbox Froggy (https://flexboxfroggy.com/#fr)
-  * [ ] Comprendre le fonctionnement de CSS Grid
+  * [X] Comprendre le fonctionnement de CSS Grid
     * [x] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
