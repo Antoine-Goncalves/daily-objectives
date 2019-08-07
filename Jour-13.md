@@ -8,7 +8,7 @@
     * [X] Comprendre la différence entre unaire, binaire et opérande
     * [X] Comprendre la concaténation
     * [X] Comprendre la précédence des opérateurs
-    * [ ] Comprendre le modulo
+    * [X] Comprendre le modulo
     * [ ] Comprendre l'incrémentation, la différence entre préfix et postfix
 
 * [X] Algo : 
