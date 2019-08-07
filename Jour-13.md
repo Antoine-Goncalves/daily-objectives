@@ -9,7 +9,7 @@
     * [X] Comprendre la concaténation
     * [X] Comprendre la précédence des opérateurs
     * [X] Comprendre le modulo
-    * [ ] Comprendre l'incrémentation, la différence entre préfix et postfix
+    * [X] Comprendre l'incrémentation, la différence entre préfix et postfix
 
 * [X] Algo : 
   * [X] Découvrir le tri fusion (Merge Sort)
