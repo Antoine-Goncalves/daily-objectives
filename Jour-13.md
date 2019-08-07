@@ -11,8 +11,8 @@
     * [ ] Comprendre le modulo
     * [ ] Comprendre l'incrémentation, la différence entre préfix et postfix
 
-* [ ] Algo : 
-  * [ ] Découvrir le tri fusion (Merge Sort)
+* [X] Algo : 
+  * [X] Découvrir le tri fusion (Merge Sort)
 
 * [ ] CSS : 
   * [ ] Comprendre le fonctionnement de Flexbox
