@@ -17,10 +17,10 @@
   * [ ] Revoir le mécanisme de tri par tas (Heap Sort)
   * [ ] Revoir le mécanisme de tri fusion (Merge Sort)
 
-* [ ] CSS : 
+* [x] CSS : 
   * [X] Découverte des icones vectorielles (https://fontawesome.com/)
-  * [ ] Découverte des préprocesseurs CSS :
-    * [ ] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS 
+  * [x] Découverte des préprocesseurs CSS :
+    * [X] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS 
     * [ ] Comprendre le mécanisme du preprocessing (input => output)
-    * [ ] Découvrir le préprocesseur CSS le plus répandu : SASS
-      * [ ] Installation de SASS (npm version)
+    * [X] Découvrir le préprocesseur CSS le plus répandu : SASS
+      * [X] Installation de SASS (npm version)
