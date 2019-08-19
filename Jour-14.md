@@ -10,12 +10,12 @@
     * [X] Comprendre comment sont comparées des valeurs de types différents ?
     * [X] Comprendre le mécanisme de comparaison avec `null` et `undefined`
 
-* [ ] Algo (Révision) : 
-  * [ ] Revoir le mécanisme de tri par insertion (Insertion Sort)
-  * [ ] Revoir le mécanisme de tri à bulles (Bubble Sort)
-  * [ ] Revoir le mécanisme de tri par selection (Selection Sort)
-  * [ ] Revoir le mécanisme de tri par tas (Heap Sort)
-  * [ ] Revoir le mécanisme de tri fusion (Merge Sort)
+* [X] Algo (Révision) : 
+  * [X] Revoir le mécanisme de tri par insertion (Insertion Sort)
+  * [X] Revoir le mécanisme de tri à bulles (Bubble Sort)
+  * [X] Revoir le mécanisme de tri par selection (Selection Sort)
+  * [X] Revoir le mécanisme de tri par tas (Heap Sort)
+  * [X] Revoir le mécanisme de tri fusion (Merge Sort)
 
 * [x] CSS : 
   * [X] Découverte des icones vectorielles (https://fontawesome.com/)
