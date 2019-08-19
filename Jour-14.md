@@ -18,7 +18,7 @@
   * [ ] Revoir le mécanisme de tri fusion (Merge Sort)
 
 * [ ] CSS : 
-  * [ ] Découverte des icones vectorielles (https://fontawesome.com/)
+  * [X] Découverte des icones vectorielles (https://fontawesome.com/)
   * [ ] Découverte des préprocesseurs CSS :
     * [ ] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS 
     * [ ] Comprendre le mécanisme du preprocessing (input => output)
