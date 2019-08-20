@@ -21,6 +21,6 @@
   * [X] Découverte des icones vectorielles (https://fontawesome.com/)
   * [x] Découverte des préprocesseurs CSS :
     * [X] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS 
-    * [ ] Comprendre le mécanisme du preprocessing (input => output)
+    * [X] Comprendre le mécanisme du preprocessing (input => output)
     * [X] Découvrir le préprocesseur CSS le plus répandu : SASS
       * [X] Installation de SASS (npm version)
