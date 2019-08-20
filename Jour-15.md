@@ -14,4 +14,4 @@
   * [X] Savoir compiler du SCSS (`sass --watch`)
   * [X] Comprendre le principe et le fonctionnement des variables dans SASS
   * [X] Comprendre l'imbrication dans SASS (Nesting)
-  * [ ] Comprendre l'utilité et le fonctionnement des partials dans SASS et l'importation (`@import`)
+  * [X] Comprendre l'utilité et le fonctionnement des partials dans SASS et l'importation (`@import`)
