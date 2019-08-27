@@ -5,7 +5,7 @@
 
 * [X] Javascript :
   * [X] Comprendre le fonctionnement des opérateurs logiques `||`, `&&` et `!` (https://javascript.info/logical-operators)
-    * [ ] Faire les 9 exercices
+    * [X] Faire les 9 exercices
 
 * [X] Algo : 
   * [X] Ecrire en pseudocode le Bubble Sort (création pure)
