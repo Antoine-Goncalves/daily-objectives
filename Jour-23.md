@@ -14,4 +14,4 @@
   * [X] Inscription sur Codewars (https://www.codewars.com)
   * [X] Function 1 - hello world (https://www.codewars.com/kata/function-1-hello-world/javascript)
   * [X] Even or Odd (https://www.codewars.com/kata/even-or-odd/javascript)
-  * [ ] Opposite number (https://www.codewars.com/kata/opposite-number/javascript)
+  * [X] Opposite number (https://www.codewars.com/kata/opposite-number/javascript)
