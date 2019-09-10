@@ -3,10 +3,10 @@
 ## Mardi 10/09/2019
 
 
-* [ ] Javascript :
+* [X] Javascript :
   * [X] Comprendre le fonctionnement et l'utilité des constructeurs en Javascript (https://javascript.info/constructor-new)
-  * [ ] Découvrir les méthodes de primitives (https://javascript.info/primitives-methods)
-  * [ ] Appronfondir les `numbers` en Javascript (https://javascript.info/number)
+  * [X] Découvrir les méthodes de primitives (https://javascript.info/primitives-methods)
+  * [X] Appronfondir les `numbers` en Javascript (https://javascript.info/number)
 
 
 
