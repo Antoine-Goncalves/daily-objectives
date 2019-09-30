@@ -19,5 +19,5 @@
 
   * [X] Découvrir Vue JS (https://fr.vuejs.org/v2/guide/)
 
-  * [ ] Installer `Vue CLI` (https://cli.vuejs.org/)
+  * [X] Installer `Vue CLI` (https://cli.vuejs.org/)
     * [ ] Créer ses premiers projets (répétitions créations / suppression, au moins une dizaine de fois)
