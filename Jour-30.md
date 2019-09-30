@@ -21,5 +21,5 @@
   * [X] Approfondir la manipulation des formulaires dans le `DOM` (https://javascript.info/form-elements)
     * [X] Faire l'exercice
   
-  * [ ] Comprendre le `Focus` et le `Blur` (https://javascript.info/focus-blur)
-    * [ ] Faire les exercices
+  * [X] Comprendre le `Focus` et le `Blur` (https://javascript.info/focus-blur)
+    * [X] Faire les exercices
