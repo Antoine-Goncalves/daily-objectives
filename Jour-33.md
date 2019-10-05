@@ -5,11 +5,11 @@
 
 ### Vue JS : 
 
-  * [ ] Comprendre le fonctionnement des Liaisons de classes et de styles (https://fr.vuejs.org/v2/guide/class-and-style.html)
-    * [ ] Valeurs uniques et multiples
+  * [X] Comprendre le fonctionnement des Liaisons de classes et de styles (https://fr.vuejs.org/v2/guide/class-and-style.html)
+    * [X] Valeurs uniques et multiples
 
-  * [ ] Approfondir le rendu conditionnel (https://fr.vuejs.org/v2/guide/conditional.html)
-    * [ ] Comprendre la différence entre `v-if` et `v-show`
+  * [X] Approfondir le rendu conditionnel (https://fr.vuejs.org/v2/guide/conditional.html)
+    * [X] Comprendre la différence entre `v-if` et `v-show`
 
   * [ ] Approfondir le rendu de listes (https://fr.vuejs.org/v2/guide/list.html)
 
