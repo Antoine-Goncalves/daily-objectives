@@ -5,15 +5,15 @@
 
 ### Frameworks JS : 
 
-  * [ ] Découvir les composants (https://fr.vuejs.org/v2/guide/components.html)
+  * [X] Découvir les composants (https://fr.vuejs.org/v2/guide/components.html)
 
-  * [ ] Comprendre comment fonctionnent les relations parents/enfants dans Vue JS
-    * [ ] props
-    * [ ] events
-    * [ ] data
-    * [ ] slots
-    * [ ] methods
+  * [X] Comprendre comment fonctionnent les relations parents/enfants dans Vue JS
+    * [X] props
+    * [X] events
+    * [X] data
+    * [X] slots
+    * [X] methods
 
-  * [ ] Comprendre le flux de données unidirectionnel (one way data binding)
+  * [X] Comprendre le flux de données unidirectionnel (one way data binding)
   
-  * [ ] Faire et refaire (plusieurs fois) la todo liste découpée en 3 composant (https://github.com/HachemiH/todo-components)
+  * [X] Faire et refaire (plusieurs fois) la todo liste découpée en 3 composant (https://github.com/HachemiH/todo-components)
