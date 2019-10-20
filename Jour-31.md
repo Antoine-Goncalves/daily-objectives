@@ -5,7 +5,7 @@
 ### Javascript :
 
   * [X] Comprendre la `recursion` et le `stack` en Javascript (https://javascript.info/recursion)
-    * [ ] Faire les exercices
+    * [X] Faire les exercices
   
 
 
@@ -20,4 +20,4 @@
   * [X] Découvrir Vue JS (https://fr.vuejs.org/v2/guide/)
 
   * [X] Installer `Vue CLI` (https://cli.vuejs.org/)
-    * [ ] Créer ses premiers projets (répétitions créations / suppression, au moins une dizaine de fois)
+    * [X] Créer ses premiers projets (répétitions créations / suppression, au moins une dizaine de fois)
