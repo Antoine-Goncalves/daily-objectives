@@ -6,7 +6,7 @@
 
 - [x] Comprendre le fonctionnement des `callbacks` (https://javascript.info/callbacks)
 - [x] Comprendre le fonctionnement des `promises` (https://javascript.info/promise-basics)
-- [ ] Savoir utiliser le `promises chaining` (https://javascript.info/promise-chaining)
+- [x] Savoir utiliser le `promises chaining` (https://javascript.info/promise-chaining)
 
 ### SQL :
 
@@ -15,13 +15,13 @@
 - [x] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
 - [x] Installation de `PostgreSQL`
 - [x] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
-- [ ] Création/suppression de comptes utilisateurs
-- [ ] Création de bases de données (https://youtu.be/DvDOU-v822w)
-- [ ] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
-- [ ] Découvrir les rôles dans `PostgreSQL` (https://docs.postgresql.fr/12/user-manag.html)
+- [x] Création/suppression de comptes utilisateurs
+- [x] Création de bases de données (https://youtu.be/DvDOU-v822w)
+- [x] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
+- [x] Découvrir les rôles dans `PostgreSQL` (https://docs.postgresql.fr/12/user-manag.html)
 
 ### Node.JS :
 
-- [ ] Découverte d'`Express.js`
-- [ ] Installation d'`Express.js`
-- [ ] Création d'un hello world personnalisé avec `Express.js` (plusieurs fois)
+- [x] Découverte d'`Express.js`
+- [x] Installation d'`Express.js`
+- [x] Création d'un hello world personnalisé avec `Express.js` (plusieurs fois)
