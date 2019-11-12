@@ -26,10 +26,10 @@
   #### Bonus de vacances :
 
   - [x] Aller le plus loin possible sur `SQLBolt` (https://sqlbolt.com/)
-  - [ ] Comprendre les relations en `SQL` :
-    - [ ] `One-to-One`
-    - [ ] `One-to-Many`
-    - [ ] `Many-to-Many`
+  - [X] Comprendre les relations en `SQL` :
+    - [X] `One-to-One`
+    - [X] `One-to-Many`
+    - [X] `Many-to-Many`
 
 ### Node.JS :
 
