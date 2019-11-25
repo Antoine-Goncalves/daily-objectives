@@ -8,5 +8,5 @@
 
 ### Node.JS :
 
-- [X] Faire la todo liste en `Node.JS` plusieurs fois d'affilées (https://github.com/HachemiH/todo-app-node)
-- [ ] Réussir cette même todo liste mais avec le `router` d'`Express` ainsi qu'un moteur de template `Pug` ou autre …
+- [x] Faire la todo liste en `Node.JS` plusieurs fois d'affilées (https://github.com/HachemiH/todo-app-node)
+- [x] Réussir cette même todo liste mais avec le `router` d'`Express` ainsi qu'un moteur de template `Pug` ou autre …
