@@ -26,10 +26,10 @@
   #### Bonus de vacances :
 
   - [x] Aller le plus loin possible sur `SQLBolt` (https://sqlbolt.com/)
-  - [X] Comprendre les relations en `SQL` :
-    - [X] `One-to-One`
-    - [X] `One-to-Many`
-    - [X] `Many-to-Many`
+  - [x] Comprendre les relations en `SQL` :
+    - [x] `One-to-One`
+    - [x] `One-to-Many`
+    - [x] `Many-to-Many`
 
 ### Node.JS :
 
@@ -39,6 +39,6 @@
   #### Bonus de vacances :
 
   - [x] Installation de `express-generator`
-  - [ ] Génération d'une application avec `express-generator` avec moteur de template de son choix
-  - [ ] Analyse de l'architecture d'une application générée par `express-generator`
-  - [ ] Ajouts/modifications des routes et de vues personnalisées d'une app générée par `express-generator` (plusieurs fois)
+  - [x] Génération d'une application avec `express-generator` avec moteur de template de son choix
+  - [x] Analyse de l'architecture d'une application générée par `express-generator`
+  - [x] Ajouts/modifications des routes et de vues personnalisées d'une app générée par `express-generator` (plusieurs fois)
